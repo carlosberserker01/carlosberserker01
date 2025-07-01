@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos López</h1>
-<h3 align="center">A frontend developer from Mexico City.</h3>
+<h3 align="center">A Full Stack Developer from Mexico City.</h3>
 
 ```javascript
 const Carlos = {
